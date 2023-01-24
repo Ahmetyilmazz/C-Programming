@@ -1,2 +1,6 @@
 # C-Programming
- C_Örnekleri
+ 
+ 
+ 
+ 
+ Öğrenmek adına kendi kendime yazdığım ve geliştirdiğim C projeleri..
